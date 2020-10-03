@@ -1,3 +1,10 @@
+
+// Passando dados entre activity
+/*
+* @autho: Leonardo dos Santos Ferreira 
+*
+*/
+
 1ª Activity:
 
 Intent i = new Intent(Activity.this, NewActivity.class);
