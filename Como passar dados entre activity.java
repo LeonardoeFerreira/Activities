@@ -1,7 +1,7 @@
 
 // Passando dados entre activity
 /*
-* @autho: Leonardo dos Santos Ferreira 
+* @author: Leonardo dos Santos Ferreira 
 *
 */
 
